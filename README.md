@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>👋 Hi, I'm **Avishek Neupane** — a BSc.CSIT student with a passion for technology, design, and innovation.  <br>💻 Exploring the world of **Frontend** with skills in **React** and **Vite**.  <br>🌱 Currently learning **React.js** simultaneously.  <br>🚀 Excited about building intuitive and user-friendly digital experiences.  <br>📫 Feel free to connect with me!<br><br>
+<br>👋 Hi, I'm **Avishek Neupane** — a BSc.CSIT student with a passion for technology, design, and innovation.  <br>💻 Exploring the world of **Frontend** with skills in **React** and **Vite**.  <br>🌱 Currently learning **Django**.  <br>🚀 Excited about building intuitive and user-friendly digital experiences.  <br>📫 Feel free to connect with me!<br><br>
 
 
 ## 🌐 Socials:
