@@ -13,11 +13,11 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbaeNeupane&show_icons=true&theme=github_dark&cache_seconds=86400)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbaeNeupane&show_icons=true&theme=blue_navy&hide&cache_seconds=86400)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=AbaeNeupane&theme=github_dark)
+![GitHub Streak](https://streak-stats.demolab.com?user=AbaeNeupane&theme=blue_navy&hide)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbaeNeupane&layout=compact&theme=github_dark&cache_seconds=86400)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbaeNeupane&layout=compact&theme=blue_navy&hide&cache_seconds=86400)
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=AbaeNeupane&color=blue)
