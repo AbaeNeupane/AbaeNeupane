@@ -13,15 +13,15 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbaeNeupane&show_icons=true&theme=blue_navy&hide&cache_seconds=86400)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=AbaeNeupane&theme=blue_navy&hide)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbaeNeupane&layout=compact&theme=blue_navy&hide&cache_seconds=86400)
+![](https://github-readme-stats.vercel.app/api?username=AbaeNeupane&theme=blue_navy&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=AbaeNeupane&theme=blue_navy&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AbaeNeupane&theme=blue_navy&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=AbaeNeupane&color=blue)
 
 
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ---
 
