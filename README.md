@@ -1,27 +1,78 @@
+<div align="center">
 
+# 👋 Hey there, I'm Avishek Neupane
 
-# 💫 About Me:
-<br>👋 Hi, I'm **Avishek Neupane** — a BSc.CSIT student with a passion for technology, design, and innovation.  <br>💻 Exploring the world of **Frontend** with skills in **React** and **Vite**.  <br>🌱 Currently learning **React & Django**.  <br>🚀 Excited about building intuitive and user-friendly digital experiences.  <br>📫 Feel free to connect with me!<br><br>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Student;Backend+Developer;Learning+React+%26+Django;" />
 
-
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/abe.neupane/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/abae_n01/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abeneupane5@gmail.com) 
-
-# 💻 Tech Stack:
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
-
-
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=AbaeNeupane&theme=blue_navy&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=AbaeNeupane&theme=blue_navy&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AbaeNeupane&theme=blue_navy&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-
-![Profile Views](https://komarev.com/ghpvc/?username=AbaeNeupane&color=blue)
+</div>
 
 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
----
+## 💫 About Me
+
+<img align="right" alt="coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+- 🎓 BSc.CSIT Student  
+- 💻 Passionate about Technology, Design & Innovation  
+- ⚛️ Exploring Frontend Development with React & Vite  
+- 🌱 Currently learning React & Django  
+- 🚀 Love building modern and user-friendly web apps  
+- 📫 Reach me anytime!  
+
+<br><br>
+
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://facebook.com/">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="mailto:yourmail@example.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
+
+
+
+# 💻 Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,vite,python,flask,django,fastapi,npm,vercel" />
+</p>
+
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=AbaeNeupane&theme=blue_navy&hide_border=true" />
+
+</div>
+
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=AbaeNeupane&show_icons=true&theme=blue_navy&hide_border=true&count_private=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbaeNeupane&layout=compact&theme=blue_navy&hide_border=true" />
+
+</div>
+
+
+
+<div align="center">
+
+### ✨ Profile Views
+
+<img src="https://komarev.com/ghpvc/?username=AbaeNeupane&label=Profile+Views&color=0e75b6&style=flat" />
+
+</div>
 
