@@ -56,17 +56,6 @@
 </div>
 
 
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=AbaeNeupane&show_icons=true&theme=blue_navy&hide_border=true&count_private=true" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbaeNeupane&layout=compact&theme=blue_navy&hide_border=true" />
-
-</div>
-
-
 
 <div align="center">
 
