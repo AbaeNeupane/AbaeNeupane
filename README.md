@@ -13,8 +13,7 @@
 <img align="right" alt="coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 - 🎓 BSc.CSIT Student  
-- 💻 Passionate about Technology, Design & Innovation  
-- ⚛️ Exploring Frontend Development with React & Vite  
+- 💻 Passionate about Technology, Design & Innovation   
 - 🌱 Currently learning React & Django  
 - 🚀 Love building modern and user-friendly web apps  
 - 📫 Reach me anytime!  
